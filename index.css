@@ -28,7 +28,7 @@ p {
 }
 
 body {
-    background:rgb(255, 246, 235);
+    background:rgb(255, 247, 235);
     font-family: 'Jost', sans-serif;
 }
 
@@ -54,7 +54,7 @@ input {
     display:block;
     background-color: white;
     border:3px solid var(--orange-web);
-    margin: 0 auto 20px auto;
+    margin: 10px auto 22px auto;
     width: 70px;
     height: 50px;
     text-align: center;
