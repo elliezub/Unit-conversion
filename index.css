@@ -60,6 +60,7 @@ input {
     text-align: center;
     font-size: 2.5rem;
     border-radius: 10px;
+    outline: none;
 }
 
 button {
@@ -86,4 +87,10 @@ button {
     margin: 20px;
     background-color: white;
     font-size: 80%;
+}
+
+@media (max-width:600px) {
+    #large-container {
+        margin:15px;
+    }
 }
